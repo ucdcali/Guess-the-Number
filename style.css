@@ -1,0 +1,18 @@
+.validButton {
+  color: black;
+}
+
+.invalidButton {
+  background-color: red;
+  color: white;
+}
+
+.winningButton {
+  background-color: yellow;
+  color: black;
+}
+
+.main {
+  margin: 20% auto;
+  text-align: center;
+}
